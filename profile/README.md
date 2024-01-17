@@ -1,5 +1,3 @@
-![welcome-page.png](https://definio-public-images.s3.eu-west-2.amazonaws.com/welcome-page.png)
-
 ## About
 
 ![definio-demo-photo.png](https://definio-public-images.s3.eu-west-2.amazonaws.com/definio-demo-photo.png)
